@@ -1,6 +1,6 @@
-Here’s a **ready-to-paste `README.md` file** you can drop directly into your repo:
 
-````markdown
+
+
 # ☀️ SolarBoost
 
 SolarBoost is an interactive web application that calculates and visualizes the sun's position and solar energy production potential based on location, date, and time.
