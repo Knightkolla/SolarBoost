@@ -1,0 +1,5 @@
+streamlit>=1.22.0
+pvlib>=0.9.0
+matplotlib>=3.5.0
+numpy>=1.22.0
+pandas>=1.4.0
