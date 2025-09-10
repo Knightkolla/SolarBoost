@@ -24,10 +24,10 @@ SolarBoost is an interactive web application that calculates and visualizes the 
 
 ### Setup Instructions
 1. Clone the repository:
-   ```bash
+ bash
    git clone <repository-url>
    cd "Sun position"
-````
+
 
 2. (Optional but recommended) Create and activate a virtual environment:
 
@@ -102,5 +102,4 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ```
 
-Do you want me to also add **GitHub badges (Python version, license, stars, issues)** at the top so your README looks more professional?
-```
+
